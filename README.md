@@ -1,2 +1,9 @@
-# ElectronicsVendorDB
-Implemented concepts of DBMS in a group project to create an Electronics Vendor Database which is connected with a website
+## Follow the procedure to run the app
+
+### Frontend
+#### npm install
+#### npm run dev
+
+### Backend
+#### npm install
+#### node index.js
